@@ -11,3 +11,11 @@ If you are not an APCS student, how did you get here? This is awkward. Our code 
 will probably not be using your contributions to make the magic happen.
 
 That's all for now. Get to work.
+
+5/17/13
+
+UPDATE
+
+-Verified APCSadmin account!
+-Set up local folder for dumping files.
+-Working on getting the source code online.
