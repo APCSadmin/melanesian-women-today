@@ -16,8 +16,4 @@ That's all for now. Get to work.
 
 UPDATE
 
--Verified APCSadmin account!
-
--Set up local folder for dumping files.
-
--Working on getting the source code online.
+We got the source code uploaded under the MWT folder. Use it as a resource for your own code.
